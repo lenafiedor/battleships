@@ -1,8 +1,7 @@
 ## Gra w okręty
 
-Należy napisać aplikację do gry w okręty przez sieć.
-
-Aplikacja łączy się z inną aplikacją i rozgrywa partię gry w okręty.
+Aplikacja do gry w okręty przez sieć.
+Łączy się z inną aplikacją i rozgrywa partię gry w okręty.
 
 ### Parametry uruchomieniowe
 Aplikacja obługuje następujące parametry:
@@ -83,8 +82,3 @@ Przykład swojej mapy po grze (wygranej; nie wszytkie okręty zatopione):
 .##~..~~~~
 ..~.~.~~~.
 ```
-
-### Zasady zaliczenia:
-Zadanie nie ma testów automatycznych, ani nawet określonej struktury projektu (należy ją zrobić samemu).
-
-Zaliczenie będzie polegało na rozegraniu kilku partii pomiędzy uczestnikami zajęć na następnym laboratorium.
